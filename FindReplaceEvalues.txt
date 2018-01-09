@@ -1,0 +1,1 @@
+Find and replace all E values in notepad++  Regular expression   (E.\.....) (E..\.....)  and  (E...\.....)   replace with     S0.15  (for 15% power)
